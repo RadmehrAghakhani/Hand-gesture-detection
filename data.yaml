@@ -1,0 +1,20 @@
+names:
+  0: One_VFR
+  1: Two_VFR
+  2: Three_VFR
+  3: Four_VFR
+  4: Five_VFR
+  5: Six_VFR
+  6: Seven_VFR
+  7: Eight_VFR
+  8: Nine_VFR
+  9: Punch_VFR
+  10: Span_VFR
+  11: Horiz_HFR
+  12: Collab
+  13: XSign
+  14: TimeOut
+
+train: C:\\Users\\Lenovo\\Desktop\\data\\train
+val: C:\\Users\\Lenovo\\Desktop\\data\\val
+test :  C:\\Users\\Lenovo\\Desktop\\data\\test
